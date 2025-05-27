@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4000 Level/Software Project Management/G. Risk Management.md",
+                "file": "4000 Level/Software Project Management/H. Risk Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "G. Risk Management"
+              "title": "H. Risk Management"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4000 Level/Software Project Management/G. Risk Management.md",
+                "file": "4000 Level/Software Project Management/H. Risk Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for G. Risk Management"
+              "title": "Backlinks for H. Risk Management"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4000 Level/Software Project Management/G. Risk Management.md",
+                "file": "4000 Level/Software Project Management/H. Risk Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from G. Risk Management"
+              "title": "Outgoing links from H. Risk Management"
             }
           },
           {
@@ -142,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4000 Level/Software Project Management/G. Risk Management.md",
+                "file": "4000 Level/Software Project Management/H. Risk Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of G. Risk Management"
+              "title": "Outline of H. Risk Management"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,13 +171,24 @@
   },
   "active": "3ef6ee1fd6c5d3a2",
   "lastOpenFiles": [
+    "Pasted image 20250528003335.png",
+    "4000 Level/Software Project Management/G. Activity Planning.md",
+    "4000 Level/Software Project Management/Files/Pasted image 20250527214049.png",
+    "4000 Level/Software Project Management/H. Risk Management.md",
+    "4000 Level/Software Project Management/Files/Pasted image 20250527233716.png",
+    "4000 Level/Software Project Management/Files/Pasted image 20250527233640.png",
+    "4000 Level/Software Project Management/Files/Pasted image 20250527233614.png",
+    "4000 Level/Software Project Management/Files/Pasted image 20250527233533.png",
+    "4000 Level/Software Project Management/Files/Pasted image 20250527232136.png",
+    "4000 Level/Software Project Management/Files/Pasted image 20250527230209.png",
+    "4000 Level/Software Project Management/Files/Pasted image 20250527213252.png",
+    "4000 Level/Software Project Management/Files",
+    "4000 Level/Software Project Management/Files/Pasted image 20250527213352.png",
     "4000 Level/Software Project Management/F. Project Analysis.md",
     "4000 Level/Software Project Management/E. Project Planning.md",
     "4000 Level/Software Project Management/D. Program Management.md",
     "4000 Level/Software Project Management/C. Cost Benefit Analysis (CBA).md",
     "4000 Level/Software Project Management/B. Project Evaluation & Portfolio.md",
-    "4000 Level/Software Project Management/A. Introduction.md",
-    "4000 Level/Software Project Management/G. Risk Management.md",
-    "Untitled"
+    "4000 Level/Software Project Management/A. Introduction.md"
   ]
 }
