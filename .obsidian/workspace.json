@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "9c88a4f4230223a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "71bf26f6422476d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ef6ee1fd6c5d3a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4000 Level/Software Project Management/G. Risk Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "G. Risk Management"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8752ed7407e74354",
+    "type": "split",
+    "children": [
+      {
+        "id": "28626a9cfea5437b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24bf7e64fcc4f7f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe2518b00afa4c64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e06a670447cc201a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f321d3325e94860",
+    "type": "split",
+    "children": [
+      {
+        "id": "59041e82a813bee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fce81ab55f299b6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4000 Level/Software Project Management/G. Risk Management.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for G. Risk Management"
+            }
+          },
+          {
+            "id": "ca0b62d639391404",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4000 Level/Software Project Management/G. Risk Management.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from G. Risk Management"
+            }
+          },
+          {
+            "id": "9267a9a9577e02ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1717bd1a79da4ae2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4000 Level/Software Project Management/G. Risk Management.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of G. Risk Management"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3ef6ee1fd6c5d3a2",
+  "lastOpenFiles": [
+    "4000 Level/Software Project Management/F. Project Analysis.md",
+    "4000 Level/Software Project Management/E. Project Planning.md",
+    "4000 Level/Software Project Management/D. Program Management.md",
+    "4000 Level/Software Project Management/C. Cost Benefit Analysis (CBA).md",
+    "4000 Level/Software Project Management/B. Project Evaluation & Portfolio.md",
+    "4000 Level/Software Project Management/A. Introduction.md",
+    "4000 Level/Software Project Management/G. Risk Management.md",
+    "Untitled"
+  ]
+}
