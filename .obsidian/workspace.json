@@ -8,35 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2751abae1a0cd89",
+            "id": "5a9f3c551610678b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4000 Level/Software Project Management/22-23 Paper Answers.md",
+                "file": "4000 Level/Software Project Management/Paper 22-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22-23 Paper Answers"
+              "title": "Paper 22-23"
             }
           },
           {
-            "id": "131cfce311569681",
+            "id": "9a289574165c4425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I. Software Effort Estimation.md",
+                "file": "4000 Level/Software Project Management/2022-2023-PP-ANS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I. Software Effort Estimation"
+              "title": "2022-2023-PP-ANS"
+            }
+          },
+          {
+            "id": "eb93b73850ad769b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4000 Level/Software Project Management/K. Monitoring and Controlling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K. Monitoring and Controlling"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Q4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3f321d3325e94860",
@@ -109,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I. Software Effort Estimation.md",
+                "file": "4000 Level/Software Project Management/K. Monitoring and Controlling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for I. Software Effort Estimation"
+              "title": "Backlinks for K. Monitoring and Controlling"
             }
           },
           {
@@ -128,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I. Software Effort Estimation.md",
+                "file": "4000 Level/Software Project Management/K. Monitoring and Controlling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from I. Software Effort Estimation"
+              "title": "Outgoing links from K. Monitoring and Controlling"
             }
           },
           {
@@ -157,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I. Software Effort Estimation.md",
+                "file": "4000 Level/Software Project Management/K. Monitoring and Controlling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of I. Software Effort Estimation"
+              "title": "Outline of K. Monitoring and Controlling"
             }
           }
         ],
@@ -184,30 +199,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "131cfce311569681",
+  "active": "eb93b73850ad769b",
   "lastOpenFiles": [
-    "4000 Level/Software Project Management/22-23 Paper Answers.md",
-    "4000 Level/Software Project Management/H. Risk Management.md",
-    "Common Questions.md",
-    "4000 Level/Software Project Management.zip",
+    "Pasted image 20250529001557.png",
+    "4000 Level/Software Project Management/B. Project Evaluation & Portfolio.md",
+    "4000 Level/Software Project Management/K. Monitoring and Controlling.md",
+    "4000 Level/Software Project Management/A. Introduction.md",
     "4000 Level/Software Project Management/C. Cost Benefit Analysis (CBA).md",
+    "4000 Level/Software Project Management/2022-2023-PP-ANS.md",
+    "4000 Level/Software Project Management/I. Risk Management.md",
+    "4000 Level/Software Project Management/Paper 22-23.md",
+    "SE.md",
+    "4000 Level/Software Project Management/2021-2022-PP-ANS.md",
+    "4000 Level/Software Project Management/2020-2021-PP-ANS.md",
+    "4000 Level/Software Project Management/Q & A.md",
+    "README.md",
+    "Extra Knowledge.md",
+    "4000 Level/Software Project Management/Files/Pasted image 20250528185134.png",
+    "4000 Level/Software Project Management/D. Program Management.md",
+    "4000 Level/Software Project Management/H. Activity Planning.md",
+    "4000 Level/Software Project Management/G. Software Effort Estimation.md",
+    "4000 Level/Software Project Management/Files/Pasted image 20250528144043.png",
+    "4000 Level/Software Project Management/Files/Pasted image 20250528141006.png",
+    "4000 Level/Software Project Management/Files/CSC4142_A04_S19355.pdf",
+    "4000 Level/Software Project Management/Files/Pasted image 20250528141409.png",
+    "4000 Level/Software Project Management/Files/Pasted image 20250528141331.png",
+    "4000 Level/Software Project Management/E. Project Planning.md",
+    "4000 Level/Software Project Management.zip",
     "4000 Level/Software Project Management/Files/Pasted image 20250528003335.png",
-    "I. Software Effort Estimation.md",
     "4000 Level/Software Project Management/Files/Pasted image 20250528010129.png",
     "4000 Level/Software Project Management/Files/Pasted image 20250528010110.png",
-    "4000 Level/Software Project Management/G. Activity Planning.md",
     "4000 Level/Software Project Management/F. Project Analysis.md",
-    "4000 Level/Software Project Management/E. Project Planning.md",
-    "4000 Level/Software Project Management/D. Program Management.md",
-    "4000 Level/Software Project Management/B. Project Evaluation & Portfolio.md",
-    "4000 Level/Software Project Management/A. Introduction.md",
     "4000 Level/Software Project Management/Files/Pasted image 20250527214049.png",
     "4000 Level/Software Project Management/Files/Pasted image 20250527233716.png",
-    "4000 Level/Software Project Management/Files/Pasted image 20250527233640.png",
-    "4000 Level/Software Project Management/Files/Pasted image 20250527233614.png",
-    "4000 Level/Software Project Management/Files/Pasted image 20250527233533.png",
-    "4000 Level/Software Project Management/Files/Pasted image 20250527232136.png",
-    "4000 Level/Software Project Management/Files/Pasted image 20250527230209.png",
     "4000 Level/Software Project Management/Files"
   ]
 }
