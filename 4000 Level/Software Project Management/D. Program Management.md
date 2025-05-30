@@ -22,6 +22,8 @@
 		- Pools of resources must be shared between concurrent projects.
 		- Ex : Software Developers, database designers, network support staff, systems analysts
 	
+4. **Program Manager vs. Project Manager**
+	
 | Aspect                      | Project Manager                         | Programme Manager                                    |
 | --------------------------- | --------------------------------------- | ---------------------------------------------------- |
 | Number of Projects          | Manages one project at a time.          | Manages multiple projects simultaneously.            |
@@ -29,7 +31,7 @@
 | Resource Focus              | Minimizes demand (avoids overuse).      | Maximizes utilization (optimizes shared resources).  |
 | Project Similarity          | Projects are dissimilar (unique goals). | Projects are similar (aligned to a common strategy). |
 	
-4. **Strategic Program Management** 
+5. **Strategic Program Management** 
     
 	- Coordinated management of multiple projects to achieve long-term organizational goals.
 	-  Ex - Large complex organizations
@@ -43,7 +45,7 @@
 | 3. Vision Statement  | Define detailed direction.          | - Specific capabilities.<br><br>- Performance indicators.<br><br>- Team responsibilities.        | "All departments will use AI tools, with 95% accuracy KPIs tracked quarterly." |
 | 4. Blueprint         | Plan operational execution.         | - Process changes.<br><br>- Staffing/IT needs.<br><br>- Data requirements.                       | "Hire 3 AI specialists, upgrade servers, and train staff by Q2 2025."          |
 	
-5. **Preliminary Program Plan**
+6. **Preliminary Program Plan**
 	
 	- A set of related projects and initiatives aimed at achieving strategic business objectives.
 		
@@ -52,23 +54,23 @@
 	- Would include : 
 		- *No Exact Early Plan* – Programs are complex, so detailed planning happens gradually.
 		- *Project Portfolio* – List of projects under the program.
-		- *Cost Estimates – Rough budget for each project.
-		-  *Expected Benefits – Goals (e.g., cost savings, growth).
-		-  *Risks – Potential challenges and mitigation strategies.
-		-  *Resources Needed – People, funds, tools required.
+		- *Cost Estimates* – Rough budget for each project.
+		-  *Expected Benefits* – Goals (e.g., cost savings, growth).
+		-  *Risks* – Potential challenges and mitigation strategies.
+		-  *Resources Needed* – People, funds, tools required.
     
-6. **Tools for Program Management** 
+7. **Tools for Program Management** 
     
 	- *Dependency Diagrams* - (Physical and Technical dependencies between projects)
 	    ex : Merger of a two organizations to form a new
 		
 		![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfGqZ-M7w4DsLLJ5qwxrwxx7I5QLcI3ZujFHaSoXacCyC9jGSLAzWIY3YCWcw19XPMH3VF7HEngEXn_GNSgWrCr-dwiyKaBZyPISHhBXV8R4UPLmsvuPYFnTLE61Gg5Y3gtp29D?key=0tlDoQZjntGxb90mUs_dN2MX)
 		
-	- *Delivery Planning* - Typically leads to ‘tranches’. Tranche is a group of projects that will deliver their products as one step in the program.
+	- *Delivery Planning* - Typically leads to ‘tranches’. [^1]Tranche is a group of projects that will deliver their products as one step in the program.
 		
 		![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXex_n1dvZyG4qDMPRhxoc8j3gYclqiSA_Rsadio6sd0DGnDq3SJXK3Gt5uDxIPqavVIFzLVsddy5IsMCo6vABJ5uFvcvPrd6XeMmku7cPWEMFNYH_j_WeNQhC16v32aGZksNKZiSQ?key=0tlDoQZjntGxb90mUs_dN2MX)
 	
-7. **Benefit Management**
+8. **Benefit Management**
     
 	- Ensures planned benefits (e.g., cost savings, efficiency) are actually achieved after implementing a change.
 	
@@ -80,9 +82,32 @@
 		- Monitor the realization of the benefit
 		
 	- Types of Benefits
-		- Mandatory compliance with Government regulations.
-		- Quality of Service 
-		- Productivity • More motivated workforce • Internal management benefits • Risk reduction • Economy • Revenue enhancement/acceleration • Strategic fit
+		- **Mandatory compliance with Government regulations**  
+		    Projects that ensure the organization meets legal or regulatory requirements (e.g., data protection laws).
+		    
+		- **Quality of Service**  
+		    Improvements that lead to better service for customers or users (e.g., faster response times, fewer errors).
+		    
+		- **Productivity**  
+		    Completing more work in less time with the same resources (e.g., automation of tasks).
+		    
+		- **More motivated workforce**  
+		    Projects that improve employee satisfaction and motivation (e.g., better tools or work environment).
+		    
+		- **Internal management benefits**  
+		    Easier control and monitoring for managers (e.g., dashboards, better reports).
+		    
+		- **Risk reduction**  
+		    Lowering the chance or impact of future problems (e.g., system backups or security upgrades).
+		    
+		- **Economy**  
+		    Reducing costs by saving money on resources, time, or operations.
+		    
+		- **Revenue enhancement/acceleration**  
+		    Increasing income or speeding up the time to receive income (e.g., online sales system).
+		    
+		- **Strategic fit**  
+		    Projects that align well with the organization’s long-term goals and direction.
 	    
 	- *Quantifying Benefits*
 	
@@ -93,7 +118,7 @@
 | Identified but Not Quantified | Clear benefits without numerical measurement | "Improved brand reputation"                          |
 | Non-Beneficial                | No positive impact (or negative effects)     | "New software increased training time without gains" |
 	
-- Test to clarify if the Benefit is genuine
+- **Test to clarify if the Benefit is genuine**
     
 	1. *"Can you explain why this benefit should result from this change?"*
 	    
@@ -114,3 +139,5 @@
 	    
 	    - Validates that the benefit is **quantifiable** (not subjective).
 	    - Example: "Productivity gains will be tracked via output-per-hour metrics."
+
+[^1]: ==distinct phases or steps, each containing a group of projects, that collectively deliver a significant component of the program's overall goals==. These tranches allow for breaking down a large, complex program into manageable stages, making it easier to track progress, manage risks, and adapt to changing requirements.

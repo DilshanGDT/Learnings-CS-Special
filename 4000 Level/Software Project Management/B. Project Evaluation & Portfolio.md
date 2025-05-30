@@ -25,7 +25,7 @@
 	- Ensuring that projects do not duplicate work.
 	- Ensuring that necessary developments have not been missed 
 	
-3. **Main 3 aspects of PPM**
+3. **Main 3 aspects of PPM (Project Portfolio Management)**
     
 - ##### a. Portfolio Definition - a centralized single repository that records all details of an organization's current projects, helping in strategic decision-making.
     
@@ -76,4 +76,15 @@
 	- Full-time staff can be effectively part-time on projects due to shared responsibilities.
 	- Excluding projects distorts the true picture of organizational activities.
 	- Non-portfolio activities can drain resources and misalign priorities despite potential benefits.
-  
+	
+6. **Case Study Angle – Business Case**
+
+> You're asked to review a project proposal to build an AI-based university admission system.
+
+You should:
+- Identify **problem**: manual admission is slow, error-prone.
+- Proposed solution: an AI-based system.
+- Consider **market**: could be used by other universities.
+- Estimate **costs/benefits**.
+- Discuss **risk**: tech failure, student privacy concerns.
+- Build a **basic schedule** and **organizational impact**.

@@ -59,8 +59,8 @@
     
 	- A methodology is a structured collection of methods used in software development. It helps guide project planning, development, and testing.  
 	
-	- Examples:
-		- Methodology: USDP, SSADM, OOAD
+	- *Examples:*
+		- Methodology: [^1]USDP, SSADM, OOAD
 		- Method: ER modeling (used to design databases)
 		- Technology: Automated testing tools, mobile app frameworks
 		- Techniques: Algorithms or logic used to solve specific problems
@@ -121,15 +121,10 @@
     - Based on system type, tools, user availability, and environment.
         
     - Example:
-        
         - Control systems: Use Petri nets for concurrent processing
-            
         - Information systems: Use SSADM or OOAD
-            
         - Expert systems: Use logic-based tools like Prolog
-            
         - High-performance systems: Use C/C++ for speed
-            
         - Safety-critical: Use formal methods like Object Constraint Language
     
 8. **Structure vs. Speed of Delivery**
@@ -138,4 +133,70 @@
 	    
 	- Fast delivery methods (e.g., RAD, JAD, Agile) are quicker but may require more revisions  
 		Example: A startup might use Agile to launch fast; a defense project would use structured methods for reliability.
+
+#### Challenges in Project Analysis
+
+###### Time-Related
+- **Unrealistic deadlines**: Tight timelines imposed by external authorities (e.g., government or board).
+    
+- **Scope creep impacts time**: New features requested after analysis can delay progress.
+    
+- **Dependencies and bottlenecks**: Waiting on input from regulators or other ERP modules (e.g., hospital systems).
+    
+- **Underestimated effort**: Incomplete early analysis may lead to incorrect task duration assumptions.
+    
+- **Lack of parallelism**: Some tasks (e.g., regulatory approval content) can't be done simultaneously, increasing total time.
+
+###### Scope-Related
+
+- **Unclear or changing requirements**: Frequent changes in regulatory policies can cause the scope to shift.
+    
+- **Incomplete documentation**: Legacy systems often lack formal specs, making analysis hard.
+    
+- **Integration complexity**: Interoperability with other ERPs introduces external scope factors.
+    
+- **Balancing functionality vs. usability**: Pressure to support all legacy functions while improving user experience.
+
+###### Time-Related
+
+- **Under budgeting due to underestimated scope**: Inaccurate analysis can lead to insufficient funds.
+    
+- **Cost of compliance/security**: Meeting legal data protection requirements may require advanced (and expensive) tech.
+    
+- **Hidden costs**: Data migration, staff training, support, and system hosting may not be fully considered in early stages.
+    
+- **Multiple stakeholders, different funding sources**: Conflicts in budget priorities.
+
+###### Budget-Related
+
+- **Quality compromise due to time/budget constraints**: Rushed delivery may lead to poor design or testing.
+    
+- **Security risks**: Sensitive medicine and clinical data require thorough analysis to avoid breaches.
+    
+- **Risk of failure to meet stakeholder expectations**: Misalignment in early analysis can cause missed goals.
+    
+- **Dependence on external systems**: Integration risks if other ERPs are not ready or poorly designed.
+
+
+###### Quality and Risk
+
+- **Quality compromise due to time/budget constraints**: Rushed delivery may lead to poor design or testing.
+    
+- **Security risks**: Sensitive medicine and clinical data require thorough analysis to avoid breaches.
+    
+- **Risk of failure to meet stakeholder expectations**: Misalignment in early analysis can cause missed goals.
+    
+- **Dependence on external systems**: Integration risks if other ERPs are not ready or poorly designed.
   
+
+[^1]: **USDP (Unified Software Development Process)**
+	
+	An **iterative, use case-driven** process using **UML**, structured into four phases: **Inception**, **Elaboration**, **Construction**, and **Transition**.
+	
+	**SSADM (Structured Systems Analysis and Design Method)**
+	
+	A **structured, waterfall-style** method focusing on **data flow diagrams**, **entity-relationship diagrams**, and thorough documentation before development.
+	
+	**OOAD (Object-Oriented Analysis and Design)**
+	
+	A method that models systems using **objects and classes**, emphasizing **modularity**, **reusability**, and **UML diagrams**. Common in modern development.

@@ -24,6 +24,18 @@
 	- Work is carried out in several phases.
 	- Large and complex.
 	
+	- ##### Characteristics of a Project
+		- Non-routine tasks are involved: Projects involve unique work that isn't part of regular, repetitive operations. Each project tackles specific problems or opportunities that require custom solutions. 
+		- Planning is required: All projects need structured planning to define activities, sequence, resources, and timelines before execution can begin effectively. 
+		- Specified objectives must be met or a specified product is to be created: Projects have clear, defined goals or deliverables that determine success, whether it's building software, constructing a building, or implementing a new process. 
+		- Has a pre-determined time span: Projects have defined start and end dates, distinguishing them from ongoing operations. This temporary nature creates urgency and focus. 
+		- Work is for a second party: Projects typically serve stakeholders or clients beyond the implementing team, requiring careful attention to requirements and satisfaction. 
+		- Work involves several specialisms: Projects require diverse expertise across multiple disciplines, necessitating collaboration between different professionals. 
+		- People are in temporary work groups to carry out tasks: Project teams form specifically for the project duration and disband afterward, creating unique team dynamics. 
+		- Work is carried out in several phases: Projects progress through distinct stages (initiation, planning, execution, monitoring, closure), each with different activities and focus. 
+		- The resources that are available for use are constrained: Projects operate within limitations of budget, time, personnel, and materials, requiring efficient resource management. 
+		- Is large and complex: Projects typically involve multiple interrelated components, stakeholders, and activities that must be coordinated, making them more challenging than routine tasks.	
+	
 5. **Software Projects vs. Other Projects**
     
 | Aspect       | Software Projects                      | Other Projects                           |
@@ -68,3 +80,4 @@
 	- Controlling - Adjusting processes to align with project goals and timelines.
 	- Innovating - Implementing new technologies or methods to improve outcomes.
 	- Representing - Acting as the liaison between stakeholders and the project team.
+	
