@@ -4,49 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "71bf26f6422476d5",
+        "id": "caaaa2274308b097",
         "type": "tabs",
         "children": [
           {
-            "id": "5a9f3c551610678b",
+            "id": "f509152cfac0916e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4000 Level/Software Project Management/Paper 22-23.md",
+                "file": "4000 Level/Software Project Management/Q & A & Genuine Activities.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Paper 22-23"
+              "title": "Q & A & Genuine Activities"
             }
           },
           {
-            "id": "9a289574165c4425",
+            "id": "6ee0ee753d5b554d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4000 Level/Software Project Management/2022-2023-PP-ANS.md",
+                "file": "4000 Level/Software Project Management/J. Resource Allocation (PERT, Critical Chain).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2022-2023-PP-ANS"
+              "title": "J. Resource Allocation (PERT, Critical Chain)"
             }
           },
           {
-            "id": "eb93b73850ad769b",
+            "id": "668e4ce37477fcb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4000 Level/Software Project Management/K. Monitoring and Controlling.md",
+                "file": "4000 Level/Software Project Management/C. Cost Benefit Analysis (CBA & DT).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K. Monitoring and Controlling"
+              "title": "C. Cost Benefit Analysis (CBA & DT)"
             }
           }
         ],
@@ -107,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "3f321d3325e94860",
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4000 Level/Software Project Management/K. Monitoring and Controlling.md",
+                "file": "4000 Level/Software Project Management/C. Cost Benefit Analysis (CBA & DT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for K. Monitoring and Controlling"
+              "title": "Backlinks for C. Cost Benefit Analysis (CBA & DT)"
             }
           },
           {
@@ -143,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4000 Level/Software Project Management/K. Monitoring and Controlling.md",
+                "file": "4000 Level/Software Project Management/C. Cost Benefit Analysis (CBA & DT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from K. Monitoring and Controlling"
+              "title": "Outgoing links from C. Cost Benefit Analysis (CBA & DT)"
             }
           },
           {
@@ -172,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4000 Level/Software Project Management/K. Monitoring and Controlling.md",
+                "file": "4000 Level/Software Project Management/C. Cost Benefit Analysis (CBA & DT).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of K. Monitoring and Controlling"
+              "title": "Outline of C. Cost Benefit Analysis (CBA & DT)"
             }
           }
         ],
@@ -199,39 +200,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb93b73850ad769b",
+  "active": "668e4ce37477fcb1",
   "lastOpenFiles": [
-    "Pasted image 20250529001557.png",
-    "4000 Level/Software Project Management/B. Project Evaluation & Portfolio.md",
-    "4000 Level/Software Project Management/K. Monitoring and Controlling.md",
-    "4000 Level/Software Project Management/A. Introduction.md",
-    "4000 Level/Software Project Management/C. Cost Benefit Analysis (CBA).md",
-    "4000 Level/Software Project Management/2022-2023-PP-ANS.md",
-    "4000 Level/Software Project Management/I. Risk Management.md",
+    "4000 Level/Software Project Management/J. Resource Allocation (PERT, Critical Chain).md",
+    "4000 Level/Software Project Management/C. Cost Benefit Analysis (CBA & DT).md",
     "4000 Level/Software Project Management/Paper 22-23.md",
-    "SE.md",
-    "4000 Level/Software Project Management/2021-2022-PP-ANS.md",
-    "4000 Level/Software Project Management/2020-2021-PP-ANS.md",
-    "4000 Level/Software Project Management/Q & A.md",
-    "README.md",
-    "Extra Knowledge.md",
-    "4000 Level/Software Project Management/Files/Pasted image 20250528185134.png",
-    "4000 Level/Software Project Management/D. Program Management.md",
+    "4000 Level/Software Project Management/01. AoN, Bar Chart & Gantt Chart.md",
+    "4000 Level/Software Project Management/Q & A & Genuine Activities.md",
+    "4000 Level/Software Project Management/I. Risk Management (CPM, AoN).md",
     "4000 Level/Software Project Management/H. Activity Planning.md",
-    "4000 Level/Software Project Management/G. Software Effort Estimation.md",
-    "4000 Level/Software Project Management/Files/Pasted image 20250528144043.png",
-    "4000 Level/Software Project Management/Files/Pasted image 20250528141006.png",
-    "4000 Level/Software Project Management/Files/CSC4142_A04_S19355.pdf",
-    "4000 Level/Software Project Management/Files/Pasted image 20250528141409.png",
-    "4000 Level/Software Project Management/Files/Pasted image 20250528141331.png",
-    "4000 Level/Software Project Management/E. Project Planning.md",
-    "4000 Level/Software Project Management.zip",
-    "4000 Level/Software Project Management/Files/Pasted image 20250528003335.png",
-    "4000 Level/Software Project Management/Files/Pasted image 20250528010129.png",
-    "4000 Level/Software Project Management/Files/Pasted image 20250528010110.png",
+    "4000 Level/Project Management 3/Project Management/09. Risk Management.md",
+    "4000 Level/Software Project Management/Paper 20-21.md",
+    "4000 Level/Software Project Management/A. Introduction.md",
+    "4000 Level/Software Project Management/Paper 21-22.md",
+    "4000 Level/Software Project Management/E. Project Planning (Step Wise & RAG).md",
     "4000 Level/Software Project Management/F. Project Analysis.md",
-    "4000 Level/Software Project Management/Files/Pasted image 20250527214049.png",
-    "4000 Level/Software Project Management/Files/Pasted image 20250527233716.png",
-    "4000 Level/Software Project Management/Files"
+    "4000 Level/Software Project Management/D. Program Management.md",
+    "4000 Level/Software Project Management/K. Monitoring and Controlling (MVE).md",
+    "4000 Level/Project Management 3/Project Management/08. Activity Planning.md",
+    "4000 Level/Project Management 3/Project Management/Resources/Pasted image 20250527192027.png",
+    "4000 Level/Project Management 3/Project Management/07. Effect Estimation.md",
+    "4000 Level/Software Project Management/G. Software Effort Estimation.md",
+    "4000 Level/Project Management 3/Project Management/06. Project Analysis.md",
+    "4000 Level/Project Management 3/Project Management/04. Programme Management.md",
+    "4000 Level/Project Management 3/Project Management/03. Cost Benefit Analysis.md",
+    "4000 Level/Software Project Management/B. Project Evaluation & Portfolio.md",
+    "4000 Level/Project Management 3/Project Management/02. Project Portfolio.md",
+    "4000 Level/Software Project Management/Files/WhatsApp Image 2025-05-29 at 05.49.42_5f85554e.jpg",
+    "4000 Level/Project Management 3/Project Management/01. Introduction.md",
+    "4000 Level/Project Management 3/Project Management/11. Monitoring and Controlling.md",
+    "4000 Level/Software Project Management/Files/WhatsApp Image 2025-05-28 at 19.48.47_e55fa515.jpg",
+    "README.md",
+    "4000 Level/Software Project Management/WhatsApp Image 2025-05-29 at 05.49.42_5f85554e.jpg.~tmp",
+    "4000 Level/Software Project Management.zip",
+    "4000 Level/Project Management 3/__MACOSX/Project Management/Resources",
+    "4000 Level/Project Management 3/__MACOSX/Project Management/PDF",
+    "4000 Level/Project Management 3/__MACOSX/Project Management",
+    "4000 Level/Project Management 3/__MACOSX",
+    "4000 Level/Project Management 3/Project Management/Resources/Screenshot 2025-05-29 at 00.32.05.png",
+    "4000 Level/Project Management 3/Project Management/Resources/Screenshot 2025-05-28 at 21.16.31.png",
+    "4000 Level/Project Management 3/Project Management/Resources/Screenshot 2025-05-28 at 14.43.54.png",
+    "4000 Level/Project Management 3/Project Management/Resources/Screenshot 2025-05-27 at 17.04.40.png",
+    "4000 Level/Project Management 3/Project Management/Resources/Screenshot 2025-05-27 at 11.51.42.png",
+    "4000 Level/Project Management 3/Project Management/Resources/s19304_A05.pdf",
+    "4000 Level/Project Management 3/Project Management/Resources/Pasted image 20250529002305.png",
+    "4000 Level/Project Management 3/Project Management/Resources/Pasted image 20250528225149.png",
+    "4000 Level/Project Management 3/Project Management/Resources",
+    "4000 Level/Project Management 3/Project Management/PDF/L13 Monitoring and Control.pdf",
+    "4000 Level/Project Management 3/Project Management/PDF/L11 Resource Allocation.pdf"
   ]
 }
